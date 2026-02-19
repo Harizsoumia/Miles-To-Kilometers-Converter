@@ -160,4 +160,4 @@ Goodbye! 👋
 
 ---
 
-*Made with ❤️ by Soumia Hariz.
+Made with ❤️ by Soumia Hariz.
