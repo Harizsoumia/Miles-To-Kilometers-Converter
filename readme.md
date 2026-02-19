@@ -160,6 +160,4 @@ Goodbye! 👋
 
 ---
 
-*Made with ❤️ by Soumia Hariz*ad input — keeps asking until the user types a valid number. It's a **validation loop**.
-**Loop 1** handles the repeat — keeps the program running after each successful conversion. It's the **program loop**.
-proper indentation.
+*Made with ❤️ by Soumia Hariz.
